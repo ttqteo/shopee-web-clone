@@ -54,6 +54,16 @@ html {
     }
 }
 
+@keyframes notifyGrowth {
+    from {
+        transform: scale(0);
+        opacity: 0.7;
+    } to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
 /* Modal */
 
 .modal {
@@ -85,7 +95,7 @@ html {
 /* Button Style */
 
 .btn {
-    min-width: 142px;
+    min-width: 124px;
     height: 34px;
     text-decoration: none;
     border: none;
