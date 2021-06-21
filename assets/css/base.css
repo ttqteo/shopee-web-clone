@@ -206,9 +206,3 @@ html {
 .select-filter__link:hover {
     color: var(--primary-color);
 }
-
-/* Display: None */
-
-.display-none {
-    display: none!important;
-}

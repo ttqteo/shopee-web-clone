@@ -1043,7 +1043,7 @@
     background-size: contain;
     background-repeat: no-repeat;
     background-color: var(--white-color);
-    background-position: top-center;
+    background-position: center;
 }
 
 .product-item__name {
