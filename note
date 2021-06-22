@@ -1,16 +1,16 @@
-1. Thêm animation Zoom Out khi rê chuột khỏi thông báo
-2. Bấm vào lịch sử tìm kiếm bị mất đi (vì mất focus)
+1. Thêm animation Zoom Out khi rê chuột khỏi thông báo --> chịu
+2. Bấm vào lịch sử tìm kiếm bị mất đi (vì mất focus) --> chịu
 
 PC:
-1. Cart : hover in-out
+1. Cart : hover in-out --> KHÔNG thể
 
 Tablet:
-1. Lịch sử tìm kiếm : chiều dài
-2. Lỗi Trong shopee (khoảng cách)
+1. Lịch sử tìm kiếm : chiều dài --> OK
+2. Lỗi Trong shopee (khoảng cách) --> OK
 
 Mobile, Tablet:
-1. Nút cart (hiệu ứng hiện, mất) dùng label
-2. Tạo nút navigation bar (cho user)
+1. Nút cart (hiệu ứng hiện, mất) dùng label --K chịu
 
 Mobile:
-1. Nút Search : hiệu ứng hiện - mất
+1. Nút Search : hiệu ứng hiện - mất --> Không thể thêm animation
+2. Tạo nút navigation bar (cho user) --> OK
