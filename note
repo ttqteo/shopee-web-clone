@@ -1,2 +1,16 @@
 1. Thêm animation Zoom Out khi rê chuột khỏi thông báo
 2. Bấm vào lịch sử tìm kiếm bị mất đi (vì mất focus)
+
+PC:
+1. Cart : hover in-out
+
+Tablet:
+1. Lịch sử tìm kiếm : chiều dài
+2. Lỗi Trong shopee (khoảng cách)
+
+Mobile, Tablet:
+1. Nút cart (hiệu ứng hiện, mất) dùng label
+2. Tạo nút navigation bar (cho user)
+
+Mobile:
+1. Nút Search : hiệu ứng hiện - mất
